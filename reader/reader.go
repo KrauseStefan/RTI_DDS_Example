@@ -1,7 +1,7 @@
 package main
 
 import (
-	"KrauseStefan/RTI_DDS_Example/lib_wrapper"
+	"github.com/KrauseStefan/RTI_DDS_Example/lib_wrapper"
 	"bufio"
 	"fmt"
 	"os"
